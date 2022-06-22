@@ -1,0 +1,2 @@
+org/apache/apisix/plugin/runner/PluginRunnerApplication.class
+org/apache/apisix/plugin/runner/filter/RewriteRequestDemoFilter.class
